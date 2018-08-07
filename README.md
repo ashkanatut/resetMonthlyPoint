@@ -1,0 +1,2 @@
+# resetMonthlyPoint
+reset monthly point
